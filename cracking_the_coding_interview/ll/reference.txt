@@ -1,1 +1,7 @@
-
+2.1 Write code to remove duplicates from an unsorted linked list.
+FOLLOW UP
+How would you solve this problem if a temporary buffer is not allowed?
+Note: the following dimension to the problem has been introduced by me,
+and not mentioned in the book chapter.
+Also  can you reverse the list in place ?
+=======================================================================
