@@ -1,1 +1,2 @@
-
+as - Arrays and Strings
+ll - Linked Lists
