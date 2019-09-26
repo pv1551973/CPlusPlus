@@ -1,0 +1,9 @@
+//without debug option
+//--------------------
+g++ -ggdb -std=c++17 -Wall -Werror=pedantic -Wextra  -c code.cpp
+g++ -ggdb -std=c++17 -Wall -Werror=pedantic -Wextra  -o a.exe code.o
+
+//with debug option
+//--------------------
+g++ -DDBG -ggdb -std=c++17 -Wall -Werror=pedantic -Wextra  -c code.cpp
+g++ -ggdb -std=c++17 -Wall -Werror=pedantic -Wextra  -o a.exe code.o
