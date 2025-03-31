@@ -1,0 +1,1 @@
+g++ -ggdb3 -Og -pedantic-errors -std=c++17 -Wall -Wextra -Wfatal-errors -Wpedantic
