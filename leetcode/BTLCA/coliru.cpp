@@ -11,8 +11,7 @@ using std::endl;
 	to the index of its children and vice versa: 
 	if index(parent) = N, index(left child) = 2*N+1 
 	if index(parent) = N, index(right child) = 2*N+2 
-	if index(child) = N, index(parent) = (N-1)/2 (integer division 
-																								with truncation)
+	if index(child) = N, index(parent) = (N-1)/2 (integer division with truncation)
 */
 class Node {
 public:
