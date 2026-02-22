@@ -1,1 +1,5 @@
-
+s1 = yfobudkbgpqtadspgvinafefktctinyvgf
+s2 = kpurgrihwbkjsrybmnqrgnubufebatwberi
+longest common sub-sequence = ukbqgnfeti
+length of longest common sub-sequence = 10
+0
